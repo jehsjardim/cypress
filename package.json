@@ -1,0 +1,24 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "prova técnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jehsjardim/cypress.git"
+  },
+  "keywords": [],
+  "author": "Jessica Jardim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jehsjardim/cypress/issues"
+  },
+  "homepage": "https://github.com/jehsjardim/cypress#readme",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
